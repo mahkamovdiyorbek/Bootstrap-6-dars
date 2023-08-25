@@ -1,0 +1,9 @@
+.popular{
+    border: 1px solid white;
+    color: limegreen;
+    background-color: white;
+    width: 122px;
+    transform: rotate(55deg);
+    margin-left: 180px;
+    margin-top: 10px;
+}

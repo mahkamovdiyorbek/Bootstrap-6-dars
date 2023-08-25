@@ -1,0 +1,12 @@
+.margin--left{
+    margin-left: -20px;
+    margin-top: -21px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+.line-height-p{
+    line-height: 8px;
+}
+.line-height-h{
+    line-height: 5px;
+}
